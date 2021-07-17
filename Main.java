@@ -1,6 +1,3 @@
-/**
-Added Nothing
-*/
 public class Main
 {
 	//Bubble Sort
