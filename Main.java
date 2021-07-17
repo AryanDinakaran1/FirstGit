@@ -1,6 +1,3 @@
-/**
-* Elon Musk Fan
-*/
 public class Main
 {
 	//Bubble Sort
