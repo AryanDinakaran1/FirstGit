@@ -3,6 +3,6 @@ def foo(n):
     print("Done!")
   else:
     print("Hello!")
-    n--;
+    n -=
     foo(n)
 foo(10)
